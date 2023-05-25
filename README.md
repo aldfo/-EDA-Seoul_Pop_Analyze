@@ -1,4 +1,4 @@
-# EDA_Seoul_Pop_Analyze
+# Seoul_Pop_Analyze
 서울시 인구 분석
 
 ## 프로젝트 설명
